@@ -1,0 +1,32 @@
+_repo: Kuopus-ja-muita-kertomuksia_62305
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tihlä, Hilda
+    aliases:
+    - Joonaantytär, Hilda Fredrika
+    - Tihla, Hilda
+    - Nicklin, Eugenia Ivanovna
+    - Joonaantytar, Hilda Fredrika
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '47390'
+    url: http://www.gutenberg.org/2009/agents/47390
+    wikipedia: https://fi.wikipedia.org/wiki/Hilda_Tihlä
+description: ''
+gutenberg_issued: '2020-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62305'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- GITenberg
+tableOfContents: Kuopus -- Lintupari -- Häätö -- Isäntä -- Lauantai-ilta metsämailla.
+title: Kuopus ja muita kertomuksia
+url: http://www.gutenberg.org/ebooks/62305
